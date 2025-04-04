@@ -20,7 +20,6 @@ Ensure that the following tools are installed before proceeding with the setup:
 Clone this repository to your local machine:
 
 git clone https://github.com/tharund1403/Tharun_ZurichAssessment_.git
-cd maven-cucumber-selenium
 
 2. Use Maven to install the project dependencies
 mvn clean install
