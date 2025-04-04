@@ -25,12 +25,15 @@ git clone https://github.com/tharund1403/Tharun_ZurichAssessment_.git
 mvn clean install
 
 3. To run tests using Maven
-
 Navigate to Your Project Directory
 Open a terminal/command prompt and navigate to the root directory of your Maven project (where the pom.xml file is located).
-cd /path/to/your/project
-mvn test
-mvn test -Dcucumber.options="classpath:src/test/resources/features"
+Enter below commands
+
+   cd /path/to/your/project
+
+   mvn test
+
+   mvn test -Dcucumber.options="classpath:src/test/resources/features"
 
 or 
 
